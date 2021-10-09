@@ -1,5 +1,5 @@
 # Alura-Challenge-Power-BI
-Desafio proposto pela Alura para desenvolvermos projetos em BI, para criarmos um portfólio. #alurachallengebi
+Desafio proposto pela Alura com o intuito de desenvolver Dashboards interativos e criativos no Power BI. #alurachallengebi
 
 Reconhecimentos pelos projetos:
 
